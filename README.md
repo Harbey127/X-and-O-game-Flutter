@@ -3,6 +3,7 @@
 A new Flutter project.
 
 
-![Screenshot 2022-02-02 000025](https://user-images.githubusercontent.com/94745074/155030310-3ed72d04-d445-46cc-bb3c-a882fec7e7ca.png)
-![Screenshot 2022-02-02 000057](https://user-images.githubusercontent.com/94745074/155030311-e288f3fb-ec5d-47c5-9058-a73e301a629d.png)
-![Screenshot 2022-02-01 235031](https://user-images.githubusercontent.com/94745074/155030312-9ce90315-3f15-4066-a636-af2626b9022c.png)
+
+![2](https://user-images.githubusercontent.com/94745074/155031008-5e46e48b-7e1f-4f1f-ab79-2a5237120754.jpeg)
+![3](https://user-images.githubusercontent.com/94745074/155031011-73c6474d-3dd1-47c9-9939-9297fffe4fed.jpeg)
+![1](https://user-images.githubusercontent.com/94745074/155031013-9c2d11e5-8c93-47b4-836e-544a885462b9.jpeg)
