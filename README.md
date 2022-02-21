@@ -1,16 +1,8 @@
-# x_or_o
+# x_or_o Game
 
 A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot 2022-02-02 000025](https://user-images.githubusercontent.com/94745074/155030310-3ed72d04-d445-46cc-bb3c-a882fec7e7ca.png)
+![Screenshot 2022-02-02 000057](https://user-images.githubusercontent.com/94745074/155030311-e288f3fb-ec5d-47c5-9058-a73e301a629d.png)
+![Screenshot 2022-02-01 235031](https://user-images.githubusercontent.com/94745074/155030312-9ce90315-3f15-4066-a636-af2626b9022c.png)
